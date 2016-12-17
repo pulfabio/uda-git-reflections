@@ -12,3 +12,5 @@ Git log gives me the history of the commits.
 Git diff gives me the differences between commits, and therefore the changes introduced.
 How might using version control make you more confident to make changes that could break something?
 You know that you can always go back to a commit that doesn't have a bug.
+Now that you have your workspace set up, what do you want to try using Git for?
+Saving versions of my projects.
