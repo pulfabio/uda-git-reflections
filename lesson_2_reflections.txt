@@ -4,3 +4,7 @@ How is the staging area different from the working directory and the repository?
 It might contain all the files in the working directory or only some of them.
 All the files it contains will belong to a commit of the repository.
 I allows us to choose exatly what files will be included in a commit.
+How can you use the staging area to make sure you have one commit per logical change?
+I can add to the staging area only files related to the same logical change.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+For example when I'm testing a new feature, or when I am creating a differen type (mode, translation, ecc.) of the file.
