@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates a .git file and adds it to the directory. It contains the metadata that makes the repository a repository.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It might contain all the files in the working directory or only some of them.
+All the files it contains will belong to a commit of the repository.
+I allows us to choose exatly what files will be included in a commit.
