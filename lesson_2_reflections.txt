@@ -10,3 +10,7 @@ What are some situations when branches would be helpful in keeping your history 
 For example when I'm testing a new feature, or when I am creating a differen type (mode, translation, ecc.) of the file.
 How do the diagrams help you visualize the branch structure?
 I can tell what commits belong to a branch and on the other hand what is not included in it.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Changes from both branches are added to the merge commit. The graph helps us understand what commits are reachable.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It speeds up operations. In case there are conflicts they must be resolved before committing.
