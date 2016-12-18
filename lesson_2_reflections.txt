@@ -8,3 +8,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 I can add to the staging area only files related to the same logical change.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 For example when I'm testing a new feature, or when I am creating a differen type (mode, translation, ecc.) of the file.
+How do the diagrams help you visualize the branch structure?
+I can tell what commits belong to a branch and on the other hand what is not included in it.
